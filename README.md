@@ -1,6 +1,6 @@
 # Student Management System Application | Email Application
 
-This project contains a Email application and Student Database Application.
+This project contains an Email application and Student Database Application.
 
 **studentDatabaseApp:**
     This application allows users to specify how many students they would like to create, input the first and last names of those students, and input the courses those students 
