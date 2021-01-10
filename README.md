@@ -1,4 +1,4 @@
-#StudentManagementSystem | Email Application
+#StudentManagementSystem
 
 This project contains a Email application and Student Database Application.
 
